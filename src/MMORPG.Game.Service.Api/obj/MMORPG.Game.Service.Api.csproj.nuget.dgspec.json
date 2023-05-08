@@ -1,0 +1,470 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Api\\MMORPG.Game.Service.Api.csproj": {}
+  },
+  "projects": {
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Api\\MMORPG.Game.Service.Api.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Api\\MMORPG.Game.Service.Api.csproj",
+        "projectName": "MMORPG.Game.Service.Api",
+        "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Api\\MMORPG.Game.Service.Api.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Host.win-x86",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj",
+        "projectName": "MMORPG.Game.Service.Application",
+        "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj",
+        "projectName": "MMORPG.Game.Service.Domain",
+        "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "MediatR": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj",
+        "projectName": "MMORPG.Game.Service.Infrastructure.IOC",
+        "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure.IOC\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj"
+              },
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj"
+              },
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\MMORPG.Game.Service.Infrastructure.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\MMORPG.Game.Service.Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "AutoMapper": {
+              "target": "Package",
+              "version": "[12.0.1, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\MMORPG.Game.Service.Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\MMORPG.Game.Service.Infrastructure.csproj",
+        "projectName": "MMORPG.Game.Service.Infrastructure",
+        "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\MMORPG.Game.Service.Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\adria\\.nuget\\packages\\",
+        "outputPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\adria\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj": {
+                "projectPath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Domain\\MMORPG.Game.Service.Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "EntityFramework": {
+              "target": "Package",
+              "version": "[6.4.4, )"
+            },
+            "Marten": {
+              "target": "Package",
+              "version": "[5.11.0, )"
+            },
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Proxies": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite.Core": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "downloadDependencies": [
+            {
+              "name": "Microsoft.AspNetCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.NETCore.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            },
+            {
+              "name": "Microsoft.WindowsDesktop.App.Ref",
+              "version": "[6.0.13, 6.0.13]"
+            }
+          ],
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files (x86)\\dotnet\\sdk\\7.0.102\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

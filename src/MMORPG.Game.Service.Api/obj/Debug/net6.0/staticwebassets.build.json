@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "YP55PTlgObOEt4gVihAAHCcY94YelQhBNq5phxS8yV4=",
+  "Source": "MMORPG.Game.Service.Api",
+  "BasePath": "_content/MMORPG.Game.Service.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

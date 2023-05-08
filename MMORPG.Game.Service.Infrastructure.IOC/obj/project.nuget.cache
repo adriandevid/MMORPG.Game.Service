@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FR+hciqqQo3Z4A0dIY2eOdE1RAJpVKk4MG3AfP/lC9JoI/t1NYzSLH5sygYlWOOtADtHG6AWteA1KGFzNPKM9A==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\MMORPG.Game.Service\\MMORPG.Game.Service.Infrastructure.IOC\\MMORPG.Game.Service.Infrastructure.IOC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,17 @@
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Infrastructure.deps.json
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Infrastructure.runtimeconfig.json
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Infrastructure.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Infrastructure.pdb
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Domain.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\bin\Debug\net6.0\MMORPG.Game.Service.Domain.pdb
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.csproj.AssemblyReference.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.AssemblyInfoInputs.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.AssemblyInfo.cs
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.csproj.CopyComplete
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\refint\MMORPG.Game.Service.Infrastructure.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.pdb
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\MMORPG.Game.Service.Infrastructure.genruntimeconfig.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Infrastructure\obj\Debug\net6.0\ref\MMORPG.Game.Service.Infrastructure.dll

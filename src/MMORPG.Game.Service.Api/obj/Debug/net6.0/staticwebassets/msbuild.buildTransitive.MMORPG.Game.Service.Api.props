@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\MMORPG.Game.Service.Api.props" />
+</Project>

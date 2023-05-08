@@ -1,0 +1,17 @@
+{
+  "version": 2,
+  "dgSpecHash": "66tid5x8T04DPlkS+eO48Xnwg7/P/0EeXjYaXtmiBqkV1vIbagS4mcqcy68NRH68JbjTeP/Vf/UNsmeviRaPoA==",
+  "success": true,
+  "projectFilePath": "C:\\Sistemas\\MMORPG.Game.Service\\src\\MMORPG.Game.Service.Application\\MMORPG.Game.Service.Application.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\adria\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr\\12.0.1\\mediatr.12.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.13\\microsoft.windowsdesktop.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.13\\microsoft.netcore.app.ref.6.0.13.nupkg.sha512",
+    "C:\\Users\\adria\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.13\\microsoft.aspnetcore.app.ref.6.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

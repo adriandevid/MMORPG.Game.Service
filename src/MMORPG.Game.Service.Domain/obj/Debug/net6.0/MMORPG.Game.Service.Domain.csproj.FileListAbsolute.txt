@@ -1,0 +1,12 @@
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\bin\Debug\net6.0\MMORPG.Game.Service.Domain.deps.json
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\bin\Debug\net6.0\MMORPG.Game.Service.Domain.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\bin\Debug\net6.0\MMORPG.Game.Service.Domain.pdb
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.csproj.AssemblyReference.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.AssemblyInfoInputs.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.AssemblyInfo.cs
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.csproj.CoreCompileInputs.cache
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\refint\MMORPG.Game.Service.Domain.dll
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\MMORPG.Game.Service.Domain.pdb
+C:\Sistemas\MMORPG.Game.Service\src\MMORPG.Game.Service.Domain\obj\Debug\net6.0\ref\MMORPG.Game.Service.Domain.dll
